@@ -1,0 +1,1106 @@
+[
+    {
+        "Country": "Bahamas",
+        "Quality of Life": null,
+        "Adventure": null,
+        "Heritage": null,
+        "Cost of Living Index": 85.0,
+        "Restaurant Price Index": 83.3
+    },
+    {
+        "Country": "Malta",
+        "Quality of Life": null,
+        "Adventure": null,
+        "Heritage": null,
+        "Cost of Living Index": 52.8,
+        "Restaurant Price Index": 56.2
+    },
+    {
+        "Country": "Kazakhstan",
+        "Quality of Life": 81,
+        "Adventure": 86,
+        "Heritage": 83,
+        "Cost of Living Index": 31.7,
+        "Restaurant Price Index": 28.7
+    },
+    {
+        "Country": "Poland",
+        "Quality of Life": 22,
+        "Adventure": 41,
+        "Heritage": 30,
+        "Cost of Living Index": 40.8,
+        "Restaurant Price Index": 35.0
+    },
+    {
+        "Country": "Georgia",
+        "Quality of Life": null,
+        "Adventure": null,
+        "Heritage": null,
+        "Cost of Living Index": 33.4,
+        "Restaurant Price Index": 31.6
+    },
+    {
+        "Country": "Dominican Republic",
+        "Quality of Life": 61,
+        "Adventure": 18,
+        "Heritage": 56,
+        "Cost of Living Index": 37.9,
+        "Restaurant Price Index": 33.1
+    },
+    {
+        "Country": "Latvia",
+        "Quality of Life": 63,
+        "Adventure": 68,
+        "Heritage": 73,
+        "Cost of Living Index": 49.1,
+        "Restaurant Price Index": 44.9
+    },
+    {
+        "Country": "Antigua and Barbuda",
+        "Quality of Life": null,
+        "Adventure": null,
+        "Heritage": null,
+        "Cost of Living Index": null,
+        "Restaurant Price Index": null
+    },
+    {
+        "Country": "Bolivia",
+        "Quality of Life": null,
+        "Adventure": null,
+        "Heritage": null,
+        "Cost of Living Index": 27.6,
+        "Restaurant Price Index": 19.4
+    },
+    {
+        "Country": "Nepal",
+        "Quality of Life": null,
+        "Adventure": null,
+        "Heritage": null,
+        "Cost of Living Index": 25.5,
+        "Restaurant Price Index": 16.2
+    },
+    {
+        "Country": "Bangladesh",
+        "Quality of Life": 58,
+        "Adventure": 82,
+        "Heritage": 82,
+        "Cost of Living Index": 22.5,
+        "Restaurant Price Index": 12.8
+    },
+    {
+        "Country": "Suriname",
+        "Quality of Life": null,
+        "Adventure": null,
+        "Heritage": null,
+        "Cost of Living Index": null,
+        "Restaurant Price Index": null
+    },
+    {
+        "Country": "Madagascar",
+        "Quality of Life": null,
+        "Adventure": null,
+        "Heritage": null,
+        "Cost of Living Index": 24.5,
+        "Restaurant Price Index": 14.3
+    },
+    {
+        "Country": "Germany",
+        "Quality of Life": 9,
+        "Adventure": 43,
+        "Heritage": 20,
+        "Cost of Living Index": 62.2,
+        "Restaurant Price Index": 52.8
+    },
+    {
+        "Country": "Costa Rica",
+        "Quality of Life": 50,
+        "Adventure": 10,
+        "Heritage": 45,
+        "Cost of Living Index": 52.3,
+        "Restaurant Price Index": 43.1
+    },
+    {
+        "Country": "Spain",
+        "Quality of Life": 18,
+        "Adventure": 4,
+        "Heritage": 3,
+        "Cost of Living Index": 47.3,
+        "Restaurant Price Index": 44.1
+    },
+    {
+        "Country": "Grenada",
+        "Quality of Life": null,
+        "Adventure": null,
+        "Heritage": null,
+        "Cost of Living Index": null,
+        "Restaurant Price Index": null
+    },
+    {
+        "Country": "Iceland",
+        "Quality of Life": null,
+        "Adventure": null,
+        "Heritage": null,
+        "Cost of Living Index": 83.0,
+        "Restaurant Price Index": 86.8
+    },
+    {
+        "Country": "Czechia",
+        "Quality of Life": 29,
+        "Adventure": 50,
+        "Heritage": 48,
+        "Cost of Living Index": null,
+        "Restaurant Price Index": null
+    },
+    {
+        "Country": "Moldova",
+        "Quality of Life": null,
+        "Adventure": null,
+        "Heritage": null,
+        "Cost of Living Index": 34.0,
+        "Restaurant Price Index": 26.6
+    },
+    {
+        "Country": "Haiti",
+        "Quality of Life": null,
+        "Adventure": null,
+        "Heritage": null,
+        "Cost of Living Index": null,
+        "Restaurant Price Index": null
+    },
+    {
+        "Country": "United Arab Emirates",
+        "Quality of Life": 26,
+        "Adventure": 48,
+        "Heritage": 53,
+        "Cost of Living Index": 55.8,
+        "Restaurant Price Index": 49.2
+    },
+    {
+        "Country": "Jamaica",
+        "Quality of Life": null,
+        "Adventure": null,
+        "Heritage": null,
+        "Cost of Living Index": 53.9,
+        "Restaurant Price Index": 38.8
+    },
+    {
+        "Country": "Belarus",
+        "Quality of Life": 84,
+        "Adventure": 84,
+        "Heritage": 87,
+        "Cost of Living Index": 26.4,
+        "Restaurant Price Index": 24.9
+    },
+    {
+        "Country": "Bosnia And Herzegovina",
+        "Quality of Life": null,
+        "Adventure": null,
+        "Heritage": null,
+        "Cost of Living Index": 35.0,
+        "Restaurant Price Index": 22.4
+    },
+    {
+        "Country": "Slovenia",
+        "Quality of Life": 49,
+        "Adventure": 62,
+        "Heritage": 65,
+        "Cost of Living Index": 49.9,
+        "Restaurant Price Index": 43.4
+    },
+    {
+        "Country": "Czech Republic",
+        "Quality of Life": null,
+        "Adventure": null,
+        "Heritage": null,
+        "Cost of Living Index": 46.6,
+        "Restaurant Price Index": 34.1
+    },
+    {
+        "Country": "Singapore",
+        "Quality of Life": 21,
+        "Adventure": 16,
+        "Heritage": 32,
+        "Cost of Living Index": 76.7,
+        "Restaurant Price Index": 50.4
+    },
+    {
+        "Country": "Canada",
+        "Quality of Life": 3,
+        "Adventure": 20,
+        "Heritage": 28,
+        "Cost of Living Index": 64.8,
+        "Restaurant Price Index": 61.7
+    },
+    {
+        "Country": "Qatar",
+        "Quality of Life": 27,
+        "Adventure": 57,
+        "Heritage": 67,
+        "Cost of Living Index": 51.3,
+        "Restaurant Price Index": 47.2
+    },
+    {
+        "Country": "Myanmar",
+        "Quality of Life": 75,
+        "Adventure": 76,
+        "Heritage": 77,
+        "Cost of Living Index": null,
+        "Restaurant Price Index": null
+    },
+    {
+        "Country": "Oman",
+        "Quality of Life": 65,
+        "Adventure": 80,
+        "Heritage": 72,
+        "Cost of Living Index": 42.4,
+        "Restaurant Price Index": 33.1
+    },
+    {
+        "Country": "Zimbabwe",
+        "Quality of Life": 78,
+        "Adventure": 74,
+        "Heritage": 75,
+        "Cost of Living Index": 37.2,
+        "Restaurant Price Index": 26.7
+    },
+    {
+        "Country": "Cyprus",
+        "Quality of Life": 54,
+        "Adventure": 26,
+        "Heritage": 49,
+        "Cost of Living Index": 54.7,
+        "Restaurant Price Index": 53.2
+    },
+    {
+        "Country": "Peru",
+        "Quality of Life": 62,
+        "Adventure": 32,
+        "Heritage": 25,
+        "Cost of Living Index": 30.0,
+        "Restaurant Price Index": 21.3
+    },
+    {
+        "Country": "Argentina",
+        "Quality of Life": 44,
+        "Adventure": 12,
+        "Heritage": 16,
+        "Cost of Living Index": 29.4,
+        "Restaurant Price Index": 24.8
+    },
+    {
+        "Country": "Turkey",
+        "Quality of Life": 32,
+        "Adventure": 19,
+        "Heritage": 8,
+        "Cost of Living Index": 37.4,
+        "Restaurant Price Index": 30.7
+    },
+    {
+        "Country": "Fiji",
+        "Quality of Life": null,
+        "Adventure": null,
+        "Heritage": null,
+        "Cost of Living Index": 35.4,
+        "Restaurant Price Index": 28.4
+    },
+    {
+        "Country": "Guatemala",
+        "Quality of Life": 74,
+        "Adventure": 59,
+        "Heritage": 69,
+        "Cost of Living Index": 38.8,
+        "Restaurant Price Index": 31.1
+    },
+    {
+        "Country": "Uruguay",
+        "Quality of Life": 60,
+        "Adventure": 51,
+        "Heritage": 63,
+        "Cost of Living Index": 54.1,
+        "Restaurant Price Index": 50.2
+    },
+    {
+        "Country": "Ukraine",
+        "Quality of Life": 87,
+        "Adventure": 85,
+        "Heritage": 81,
+        "Cost of Living Index": 25.9,
+        "Restaurant Price Index": 20.7
+    },
+    {
+        "Country": "Philippines",
+        "Quality of Life": 37,
+        "Adventure": 22,
+        "Heritage": 36,
+        "Cost of Living Index": 31.0,
+        "Restaurant Price Index": 16.8
+    },
+    {
+        "Country": "Austria",
+        "Quality of Life": 12,
+        "Adventure": 17,
+        "Heritage": 18,
+        "Cost of Living Index": 65.1,
+        "Restaurant Price Index": 59.3
+    },
+    {
+        "Country": "Algeria",
+        "Quality of Life": 79,
+        "Adventure": 78,
+        "Heritage": 70,
+        "Cost of Living Index": 28.9,
+        "Restaurant Price Index": 14.0
+    },
+    {
+        "Country": "Saint Lucia",
+        "Quality of Life": null,
+        "Adventure": null,
+        "Heritage": null,
+        "Cost of Living Index": null,
+        "Restaurant Price Index": null
+    },
+    {
+        "Country": "Slovakia",
+        "Quality of Life": 47,
+        "Adventure": 66,
+        "Heritage": 64,
+        "Cost of Living Index": 46.7,
+        "Restaurant Price Index": 34.5
+    },
+    {
+        "Country": "Uganda",
+        "Quality of Life": null,
+        "Adventure": null,
+        "Heritage": null,
+        "Cost of Living Index": 29.1,
+        "Restaurant Price Index": 21.6
+    },
+    {
+        "Country": "El Salvador",
+        "Quality of Life": 77,
+        "Adventure": 58,
+        "Heritage": 71,
+        "Cost of Living Index": 39.5,
+        "Restaurant Price Index": 29.6
+    },
+    {
+        "Country": "North Macedonia",
+        "Quality of Life": null,
+        "Adventure": null,
+        "Heritage": null,
+        "Cost of Living Index": 33.0,
+        "Restaurant Price Index": 22.1
+    },
+    {
+        "Country": "Armenia",
+        "Quality of Life": null,
+        "Adventure": null,
+        "Heritage": null,
+        "Cost of Living Index": 41.0,
+        "Restaurant Price Index": 38.9
+    },
+    {
+        "Country": "Thailand",
+        "Quality of Life": 34,
+        "Adventure": 5,
+        "Heritage": 9,
+        "Cost of Living Index": 34.1,
+        "Restaurant Price Index": 18.3
+    },
+    {
+        "Country": "Hong Kong (China)",
+        "Quality of Life": null,
+        "Adventure": null,
+        "Heritage": null,
+        "Cost of Living Index": 70.8,
+        "Restaurant Price Index": 46.2
+    },
+    {
+        "Country": "Greece",
+        "Quality of Life": 28,
+        "Adventure": 3,
+        "Heritage": 2,
+        "Cost of Living Index": 52.0,
+        "Restaurant Price Index": 51.3
+    },
+    {
+        "Country": "Mauritius",
+        "Quality of Life": null,
+        "Adventure": null,
+        "Heritage": null,
+        "Cost of Living Index": 37.1,
+        "Restaurant Price Index": 26.5
+    },
+    {
+        "Country": "Saint Vincent and the Grenadines",
+        "Quality of Life": null,
+        "Adventure": null,
+        "Heritage": null,
+        "Cost of Living Index": null,
+        "Restaurant Price Index": null
+    },
+    {
+        "Country": "New Zealand",
+        "Quality of Life": 10,
+        "Adventure": 7,
+        "Heritage": 26,
+        "Cost of Living Index": 64.6,
+        "Restaurant Price Index": 57.1
+    },
+    {
+        "Country": "Kosovo (Disputed Territory)",
+        "Quality of Life": null,
+        "Adventure": null,
+        "Heritage": null,
+        "Cost of Living Index": 29.5,
+        "Restaurant Price Index": 20.6
+    },
+    {
+        "Country": "South Korea",
+        "Quality of Life": 24,
+        "Adventure": 54,
+        "Heritage": 31,
+        "Cost of Living Index": 60.1,
+        "Restaurant Price Index": 31.4
+    },
+    {
+        "Country": "Libya",
+        "Quality of Life": null,
+        "Adventure": null,
+        "Heritage": null,
+        "Cost of Living Index": 20.4,
+        "Restaurant Price Index": 15.2
+    },
+    {
+        "Country": "Saint Kitts and Nevis",
+        "Quality of Life": null,
+        "Adventure": null,
+        "Heritage": null,
+        "Cost of Living Index": null,
+        "Restaurant Price Index": null
+    },
+    {
+        "Country": "China",
+        "Quality of Life": 25,
+        "Adventure": 61,
+        "Heritage": 13,
+        "Cost of Living Index": 31.7,
+        "Restaurant Price Index": 20.6
+    },
+    {
+        "Country": "Romania",
+        "Quality of Life": 40,
+        "Adventure": 47,
+        "Heritage": 46,
+        "Cost of Living Index": 37.5,
+        "Restaurant Price Index": 35.5
+    },
+    {
+        "Country": "Jordan",
+        "Quality of Life": 68,
+        "Adventure": 60,
+        "Heritage": 47,
+        "Cost of Living Index": 41.2,
+        "Restaurant Price Index": 34.8
+    },
+    {
+        "Country": "Hungary",
+        "Quality of Life": 35,
+        "Adventure": 52,
+        "Heritage": 39,
+        "Cost of Living Index": 41.7,
+        "Restaurant Price Index": 37.0
+    },
+    {
+        "Country": "Cambodia",
+        "Quality of Life": 56,
+        "Adventure": 63,
+        "Heritage": 55,
+        "Cost of Living Index": 37.3,
+        "Restaurant Price Index": 22.7
+    },
+    {
+        "Country": "Egypt",
+        "Quality of Life": 52,
+        "Adventure": 25,
+        "Heritage": 7,
+        "Cost of Living Index": 21.0,
+        "Restaurant Price Index": 16.2
+    },
+    {
+        "Country": "Lithuania",
+        "Quality of Life": 57,
+        "Adventure": 71,
+        "Heritage": 76,
+        "Cost of Living Index": 47.1,
+        "Restaurant Price Index": 43.5
+    },
+    {
+        "Country": "Sri Lanka",
+        "Quality of Life": 66,
+        "Adventure": 44,
+        "Heritage": 54,
+        "Cost of Living Index": 34.6,
+        "Restaurant Price Index": 18.5
+    },
+    {
+        "Country": "Denmark",
+        "Quality of Life": 4,
+        "Adventure": 28,
+        "Heritage": 35,
+        "Cost of Living Index": 72.3,
+        "Restaurant Price Index": 81.3
+    },
+    {
+        "Country": "Trinidad And Tobago",
+        "Quality of Life": null,
+        "Adventure": null,
+        "Heritage": null,
+        "Cost of Living Index": 52.6,
+        "Restaurant Price Index": 43.9
+    },
+    {
+        "Country": "Honduras",
+        "Quality of Life": 80,
+        "Adventure": 64,
+        "Heritage": 78,
+        "Cost of Living Index": null,
+        "Restaurant Price Index": null
+    },
+    {
+        "Country": "Russia",
+        "Quality of Life": 51,
+        "Adventure": 79,
+        "Heritage": 43,
+        "Cost of Living Index": 31.0,
+        "Restaurant Price Index": 28.0
+    },
+    {
+        "Country": "Chile",
+        "Quality of Life": 53,
+        "Adventure": 37,
+        "Heritage": 38,
+        "Cost of Living Index": 39.1,
+        "Restaurant Price Index": 34.8
+    },
+    {
+        "Country": "Sweden",
+        "Quality of Life": 1,
+        "Adventure": 24,
+        "Heritage": 44,
+        "Cost of Living Index": 59.3,
+        "Restaurant Price Index": 54.7
+    },
+    {
+        "Country": "Cuba",
+        "Quality of Life": null,
+        "Adventure": null,
+        "Heritage": null,
+        "Cost of Living Index": 46.7,
+        "Restaurant Price Index": 26.0
+    },
+    {
+        "Country": "Japan",
+        "Quality of Life": 14,
+        "Adventure": 30,
+        "Heritage": 6,
+        "Cost of Living Index": 46.1,
+        "Restaurant Price Index": 27.8
+    },
+    {
+        "Country": "Panama",
+        "Quality of Life": 71,
+        "Adventure": 39,
+        "Heritage": 62,
+        "Cost of Living Index": 46.4,
+        "Restaurant Price Index": 42.2
+    },
+    {
+        "Country": "Mexico",
+        "Quality of Life": 41,
+        "Adventure": 9,
+        "Heritage": 5,
+        "Cost of Living Index": 40.2,
+        "Restaurant Price Index": 35.7
+    },
+    {
+        "Country": "Kuwait",
+        "Quality of Life": null,
+        "Adventure": null,
+        "Heritage": null,
+        "Cost of Living Index": 42.1,
+        "Restaurant Price Index": 36.4
+    },
+    {
+        "Country": "Seychelles",
+        "Quality of Life": null,
+        "Adventure": null,
+        "Heritage": null,
+        "Cost of Living Index": null,
+        "Restaurant Price Index": null
+    },
+    {
+        "Country": "United States",
+        "Quality of Life": 23,
+        "Adventure": 33,
+        "Heritage": 21,
+        "Cost of Living Index": 70.4,
+        "Restaurant Price Index": 67.2
+    },
+    {
+        "Country": "Venezuela",
+        "Quality of Life": null,
+        "Adventure": null,
+        "Heritage": null,
+        "Cost of Living Index": 38.3,
+        "Restaurant Price Index": 37.7
+    },
+    {
+        "Country": "Albania",
+        "Quality of Life": null,
+        "Adventure": null,
+        "Heritage": null,
+        "Cost of Living Index": 42.1,
+        "Restaurant Price Index": 35.7
+    },
+    {
+        "Country": "Kenya",
+        "Quality of Life": 70,
+        "Adventure": 56,
+        "Heritage": 57,
+        "Cost of Living Index": 30.2,
+        "Restaurant Price Index": 22.1
+    },
+    {
+        "Country": "South Africa",
+        "Quality of Life": 55,
+        "Adventure": 35,
+        "Heritage": 24,
+        "Cost of Living Index": 34.5,
+        "Restaurant Price Index": 29.5
+    },
+    {
+        "Country": "Colombia",
+        "Quality of Life": 67,
+        "Adventure": 40,
+        "Heritage": 40,
+        "Cost of Living Index": 28.8,
+        "Restaurant Price Index": 20.5
+    },
+    {
+        "Country": "Tunisia",
+        "Quality of Life": 64,
+        "Adventure": 49,
+        "Heritage": 52,
+        "Cost of Living Index": 28.1,
+        "Restaurant Price Index": 15.0
+    },
+    {
+        "Country": "Indonesia",
+        "Quality of Life": 38,
+        "Adventure": 34,
+        "Heritage": 22,
+        "Cost of Living Index": 26.7,
+        "Restaurant Price Index": 13.5
+    },
+    {
+        "Country": "India",
+        "Quality of Life": 39,
+        "Adventure": 53,
+        "Heritage": 10,
+        "Cost of Living Index": 21.2,
+        "Restaurant Price Index": 15.1
+    },
+    {
+        "Country": "Nigeria",
+        "Quality of Life": null,
+        "Adventure": null,
+        "Heritage": null,
+        "Cost of Living Index": 31.4,
+        "Restaurant Price Index": 20.6
+    },
+    {
+        "Country": "Azerbaijan",
+        "Quality of Life": 82,
+        "Adventure": 72,
+        "Heritage": 80,
+        "Cost of Living Index": 31.2,
+        "Restaurant Price Index": 31.8
+    },
+    {
+        "Country": "Netherlands",
+        "Quality of Life": 7,
+        "Adventure": 15,
+        "Heritage": 27,
+        "Cost of Living Index": 63.1,
+        "Restaurant Price Index": 61.2
+    },
+    {
+        "Country": "Belize",
+        "Quality of Life": null,
+        "Adventure": null,
+        "Heritage": null,
+        "Cost of Living Index": null,
+        "Restaurant Price Index": null
+    },
+    {
+        "Country": "Morocco",
+        "Quality of Life": 48,
+        "Adventure": 21,
+        "Heritage": 14,
+        "Cost of Living Index": 29.5,
+        "Restaurant Price Index": 20.7
+    },
+    {
+        "Country": "Australia",
+        "Quality of Life": 8,
+        "Adventure": 8,
+        "Heritage": 19,
+        "Cost of Living Index": 70.2,
+        "Restaurant Price Index": 62.5
+    },
+    {
+        "Country": "Serbia",
+        "Quality of Life": 73,
+        "Adventure": 77,
+        "Heritage": 66,
+        "Cost of Living Index": 37.7,
+        "Restaurant Price Index": 31.2
+    },
+    {
+        "Country": "Iraq",
+        "Quality of Life": null,
+        "Adventure": null,
+        "Heritage": null,
+        "Cost of Living Index": 29.3,
+        "Restaurant Price Index": 20.9
+    },
+    {
+        "Country": "Estonia",
+        "Quality of Life": 45,
+        "Adventure": 65,
+        "Heritage": 68,
+        "Cost of Living Index": 52.0,
+        "Restaurant Price Index": 50.6
+    },
+    {
+        "Country": "Vietnam",
+        "Quality of Life": 36,
+        "Adventure": 42,
+        "Heritage": 29,
+        "Cost of Living Index": 28.7,
+        "Restaurant Price Index": 14.8
+    },
+    {
+        "Country": "United Kingdom",
+        "Quality of Life": 13,
+        "Adventure": 38,
+        "Heritage": 15,
+        "Cost of Living Index": 62.0,
+        "Restaurant Price Index": 62.7
+    },
+    {
+        "Country": "Palestine",
+        "Quality of Life": null,
+        "Adventure": null,
+        "Heritage": null,
+        "Cost of Living Index": 41.6,
+        "Restaurant Price Index": 27.4
+    },
+    {
+        "Country": "Cameroon",
+        "Quality of Life": 76,
+        "Adventure": 70,
+        "Heritage": 79,
+        "Cost of Living Index": 37.3,
+        "Restaurant Price Index": 35.3
+    },
+    {
+        "Country": "Norway",
+        "Quality of Life": 2,
+        "Adventure": 23,
+        "Heritage": 34,
+        "Cost of Living Index": 76.0,
+        "Restaurant Price Index": 73.5
+    },
+    {
+        "Country": "Tanzania",
+        "Quality of Life": null,
+        "Adventure": null,
+        "Heritage": null,
+        "Cost of Living Index": 23.8,
+        "Restaurant Price Index": 16.5
+    },
+    {
+        "Country": "Syria",
+        "Quality of Life": null,
+        "Adventure": null,
+        "Heritage": null,
+        "Cost of Living Index": 24.0,
+        "Restaurant Price Index": 15.3
+    },
+    {
+        "Country": "Saudi Arabia",
+        "Quality of Life": 30,
+        "Adventure": 75,
+        "Heritage": 51,
+        "Cost of Living Index": 45.3,
+        "Restaurant Price Index": 30.9
+    },
+    {
+        "Country": "Malaysia",
+        "Quality of Life": 31,
+        "Adventure": 31,
+        "Heritage": 33,
+        "Cost of Living Index": 30.0,
+        "Restaurant Price Index": 18.9
+    },
+    {
+        "Country": "Iran",
+        "Quality of Life": 86,
+        "Adventure": 87,
+        "Heritage": 74,
+        "Cost of Living Index": 26.4,
+        "Restaurant Price Index": 16.3
+    },
+    {
+        "Country": "Ghana",
+        "Quality of Life": 72,
+        "Adventure": 73,
+        "Heritage": 84,
+        "Cost of Living Index": 30.9,
+        "Restaurant Price Index": 26.9
+    },
+    {
+        "Country": "Croatia",
+        "Quality of Life": 33,
+        "Adventure": 29,
+        "Heritage": 41,
+        "Cost of Living Index": 45.5,
+        "Restaurant Price Index": 42.2
+    },
+    {
+        "Country": "Bulgaria",
+        "Quality of Life": 42,
+        "Adventure": 55,
+        "Heritage": 58,
+        "Cost of Living Index": 38.3,
+        "Restaurant Price Index": 34.7
+    },
+    {
+        "Country": "Montenegro",
+        "Quality of Life": null,
+        "Adventure": null,
+        "Heritage": null,
+        "Cost of Living Index": 39.4,
+        "Restaurant Price Index": 36.3
+    },
+    {
+        "Country": "Finland",
+        "Quality of Life": 5,
+        "Adventure": 27,
+        "Heritage": 50,
+        "Cost of Living Index": 63.2,
+        "Restaurant Price Index": 63.6
+    },
+    {
+        "Country": "Belgium",
+        "Quality of Life": 11,
+        "Adventure": 36,
+        "Heritage": 42,
+        "Cost of Living Index": 61.1,
+        "Restaurant Price Index": 66.0
+    },
+    {
+        "Country": "Taiwan",
+        "Quality of Life": null,
+        "Adventure": null,
+        "Heritage": null,
+        "Cost of Living Index": 45.2,
+        "Restaurant Price Index": 23.0
+    },
+    {
+        "Country": "Mongolia",
+        "Quality of Life": null,
+        "Adventure": null,
+        "Heritage": null,
+        "Cost of Living Index": null,
+        "Restaurant Price Index": null
+    },
+    {
+        "Country": "Paraguay",
+        "Quality of Life": null,
+        "Adventure": null,
+        "Heritage": null,
+        "Cost of Living Index": 25.4,
+        "Restaurant Price Index": 17.6
+    },
+    {
+        "Country": "Bosnia and Herzegovina",
+        "Quality of Life": null,
+        "Adventure": null,
+        "Heritage": null,
+        "Cost of Living Index": null,
+        "Restaurant Price Index": null
+    },
+    {
+        "Country": "Lebanon",
+        "Quality of Life": 85,
+        "Adventure": 69,
+        "Heritage": 59,
+        "Cost of Living Index": 41.8,
+        "Restaurant Price Index": 37.1
+    },
+    {
+        "Country": "France",
+        "Quality of Life": 17,
+        "Adventure": 11,
+        "Heritage": 4,
+        "Cost of Living Index": 63.7,
+        "Restaurant Price Index": 56.3
+    },
+    {
+        "Country": "Pakistan",
+        "Quality of Life": null,
+        "Adventure": null,
+        "Heritage": null,
+        "Cost of Living Index": 18.8,
+        "Restaurant Price Index": 12.9
+    },
+    {
+        "Country": "Puerto Rico",
+        "Quality of Life": null,
+        "Adventure": null,
+        "Heritage": null,
+        "Cost of Living Index": 63.3,
+        "Restaurant Price Index": 53.1
+    },
+    {
+        "Country": "Botswana",
+        "Quality of Life": null,
+        "Adventure": null,
+        "Heritage": null,
+        "Cost of Living Index": 30.1,
+        "Restaurant Price Index": 22.5
+    },
+    {
+        "Country": "Ecuador",
+        "Quality of Life": 69,
+        "Adventure": 45,
+        "Heritage": 61,
+        "Cost of Living Index": 32.6,
+        "Restaurant Price Index": 24.5
+    },
+    {
+        "Country": "Dominica",
+        "Quality of Life": null,
+        "Adventure": null,
+        "Heritage": null,
+        "Cost of Living Index": null,
+        "Restaurant Price Index": null
+    },
+    {
+        "Country": "Barbados",
+        "Quality of Life": null,
+        "Adventure": null,
+        "Heritage": null,
+        "Cost of Living Index": 76.6,
+        "Restaurant Price Index": 69.4
+    },
+    {
+        "Country": "Luxembourg",
+        "Quality of Life": 16,
+        "Adventure": 46,
+        "Heritage": 60,
+        "Cost of Living Index": 62.4,
+        "Restaurant Price Index": 68.7
+    },
+    {
+        "Country": "Guyana",
+        "Quality of Life": null,
+        "Adventure": null,
+        "Heritage": null,
+        "Cost of Living Index": null,
+        "Restaurant Price Index": null
+    },
+    {
+        "Country": "Israel",
+        "Quality of Life": 43,
+        "Adventure": 67,
+        "Heritage": 37,
+        "Cost of Living Index": 62.7,
+        "Restaurant Price Index": 68.0
+    },
+    {
+        "Country": "Brazil",
+        "Quality of Life": 46,
+        "Adventure": 1,
+        "Heritage": 12,
+        "Cost of Living Index": 30.2,
+        "Restaurant Price Index": 22.6
+    },
+    {
+        "Country": "Trinidad and Tobago",
+        "Quality of Life": null,
+        "Adventure": null,
+        "Heritage": null,
+        "Cost of Living Index": null,
+        "Restaurant Price Index": null
+    },
+    {
+        "Country": "Switzerland",
+        "Quality of Life": 6,
+        "Adventure": 13,
+        "Heritage": 23,
+        "Cost of Living Index": 101.1,
+        "Restaurant Price Index": 97.0
+    },
+    {
+        "Country": "Portugal",
+        "Quality of Life": 19,
+        "Adventure": 6,
+        "Heritage": 11,
+        "Cost of Living Index": 45.1,
+        "Restaurant Price Index": 36.9
+    },
+    {
+        "Country": "Ireland",
+        "Quality of Life": 15,
+        "Adventure": 14,
+        "Heritage": 17,
+        "Cost of Living Index": 64.4,
+        "Restaurant Price Index": 65.3
+    },
+    {
+        "Country": "Italy",
+        "Quality of Life": 20,
+        "Adventure": 2,
+        "Heritage": 1,
+        "Cost of Living Index": 56.2,
+        "Restaurant Price Index": 53.3
+    },
+    {
+        "Country": "Bahrain",
+        "Quality of Life": 59,
+        "Adventure": 81,
+        "Heritage": 85,
+        "Cost of Living Index": 52.3,
+        "Restaurant Price Index": 44.7
+    },
+    {
+        "Country": "Kyrgyzstan",
+        "Quality of Life": null,
+        "Adventure": null,
+        "Heritage": null,
+        "Cost of Living Index": 27.6,
+        "Restaurant Price Index": 20.2
+    },
+    {
+        "Country": "Uzbekistan",
+        "Quality of Life": 83,
+        "Adventure": 83,
+        "Heritage": 86,
+        "Cost of Living Index": 26.4,
+        "Restaurant Price Index": 18.6
+    }
+]

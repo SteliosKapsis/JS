@@ -1,0 +1,99 @@
+/* ✅ Center everything properly */
+.add-country-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh; /* Full page height */
+  background: none; /* ✅ Keep the background from App.css */
+}
+
+/* ✅ White box for the form */
+.add-country-box {
+  background: rgba(255, 255, 255, 0.95); /* ✅ Slight transparency to blend with background */
+  padding: 30px;
+  border-radius: 12px;
+  box-shadow: 0px 6px 15px rgba(0, 0, 0, 0.15);
+  width: 420px;
+  text-align: center;
+}
+
+/* ✅ Title */
+.add-title {
+  margin-bottom: 20px;
+  color: #333;
+  font-size: 26px;
+}
+
+/* ✅ Style the form */
+.add-form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+/* ✅ Each input field container */
+.input-group {
+  margin-bottom: 18px; /* ✅ More space between inputs */
+  width: 100%;
+  text-align: center;
+}
+
+/* ✅ Labels */
+.input-group label {
+  font-weight: bold;
+  font-size: 14px;
+  margin-bottom: 8px;
+  display: block;
+  color: #333;
+}
+
+/* ✅ Inputs */
+.add-input {
+  width: 50%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  font-size: 16px;
+  transition: border-color 0.3s;
+  text-align: center;
+}
+
+.add-input:focus {
+  border-color: #007BFF;
+  outline: none;
+}
+
+/* ✅ Update Button */
+.add-button {
+  padding: 14px;
+  background-color: #28a745;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  font-size: 16px;
+  font-weight: bold;
+  cursor: pointer;
+  margin-top: 20px; /* ✅ More space above button */
+  width: 56%; /* ✅ Full width button */
+  transition: background-color 0.3s;
+}
+
+.add-button:hover {
+  background-color: #218838;
+}
+
+/* ✅ Error & Success messages */
+.error-message {
+  color: red;
+  font-size: 14px;
+  margin-top: 12px;
+}
+
+.success-message {
+  color: green;
+  font-size: 14px;
+  margin-top: 12px;
+}
+
+
+
